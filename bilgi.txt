@@ -1,4 +1,4 @@
 Ad Soyad - Memleket - Yaş - Meslek - Hobi/Fobi - Swift Deneyimi
 
-Samet ALEMDAROGLU - 23 - Yazılım Mühendisliği Ogrencisi - Gitar Calmak,Kitap Okumak - Orta
+Samet ALEMDAROGLU - Ordu - 23 - Yazılım Mühendisliği Ogrencisi - Gitar Calmak,Kitap Okumak - Orta
 
